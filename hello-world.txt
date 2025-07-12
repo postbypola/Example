@@ -1,0 +1,2 @@
+git add hello-world.txt
+git commit -m "Datei hello-world.txt umbenannt"
